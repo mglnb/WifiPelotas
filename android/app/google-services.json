@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "416876603787",
+    "firebase_url": "https://wifipelotas-611c7.firebaseio.com",
+    "project_id": "wifipelotas-611c7",
+    "storage_bucket": "wifipelotas-611c7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:416876603787:android:74b82c6d2b78645d",
+        "android_client_info": {
+          "package_name": "com.wifipelotas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "416876603787-n7l7l7j2s7511r96c056q0tl3ojhp48j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrFyycNXgzdTUsXTOXHtb260H80ZBB7DI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
